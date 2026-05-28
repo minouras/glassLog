@@ -16,3 +16,5 @@
 - Cloudflare Pagesの追加ページから
 - 本プロジェクトのcontent/postsに直接mdファイルを追加
 
+## その他
+バックエンドはgithubには置いてません
